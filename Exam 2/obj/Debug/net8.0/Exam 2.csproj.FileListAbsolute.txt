@@ -1,0 +1,14 @@
+C:\Users\nwef9\Downloads\Exam 2\bin\Debug\net8.0\Exam 2.exe
+C:\Users\nwef9\Downloads\Exam 2\bin\Debug\net8.0\Exam 2.deps.json
+C:\Users\nwef9\Downloads\Exam 2\bin\Debug\net8.0\Exam 2.runtimeconfig.json
+C:\Users\nwef9\Downloads\Exam 2\bin\Debug\net8.0\Exam 2.dll
+C:\Users\nwef9\Downloads\Exam 2\bin\Debug\net8.0\Exam 2.pdb
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfoInputs.cache
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.AssemblyInfo.cs
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.csproj.CoreCompileInputs.cache
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.dll
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\refint\Exam 2.dll
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.pdb
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\Exam 2.genruntimeconfig.cache
+C:\Users\nwef9\Downloads\Exam 2\obj\Debug\net8.0\ref\Exam 2.dll
